@@ -1,0 +1,2 @@
+python-irodsclient
+mango_auth
